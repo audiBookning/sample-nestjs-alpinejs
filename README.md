@@ -1,5 +1,7 @@
 # Sample code - NestJS, AlpineJS, express-handlebars
 
+Part of a personal [list](https://github.com/audiBookning/sample-nestjs-codes) of random samples code for NestJS
+
 > Quick sample code for using AlpineJJS with NetsJS
 > With the help of express-handlebars as a template engine
 
@@ -30,3 +32,14 @@
 - `http://localhost:3000/modal-helper-message` - A simple Alpine Modal
 
   > How to print alpine using a hbs helper and pass dynamic values from the controller
+
+## Disclaimer
+
+These codes are not and will never be maintained. It is just some random sample code.
+
+Feel free to copy and make any change you like.
+
+##
+
+License
+ISC © 2021 AudiBookning

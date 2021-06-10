@@ -1,0 +1,21 @@
+
+<div x-data="{ open: {{openSate }} }">
+    <button @click="open = true">Open Dropdown</button>
+
+    <ul
+        x-show="open"
+        @click.away="open = false"
+    >
+        {{ message }}
+    </ul>
+</div>
+
+
+<script>    
+    var testHandle = '{{openSate }}';
+    console.log('testHandle: ', testHandle)
+    function openSate (){
+        var testHandle = '{{openSate }}';
+        return testHandle
+        }
+</script>
